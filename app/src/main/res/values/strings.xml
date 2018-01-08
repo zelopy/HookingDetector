@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HookingDetector</string>
+
+    <string name="msg_hooking_detected">후킹이 탐지되었습니다.</string>
+</resources>
